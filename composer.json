@@ -1,0 +1,29 @@
+{
+    "name": "arthuryinzhen/laravel-ali-sms",
+    "description": "ali sms for laravel5.2",
+    "keywords": [
+        "laravel",
+        "alisms",
+        "laravel-ali-sms",
+        "laravel5 sms api"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "尹振",
+            "email": "arthur.yinzhen@outlook.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.5.0",
+        "alibabacloud/client": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arthuryinzhen\\Alisms\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
