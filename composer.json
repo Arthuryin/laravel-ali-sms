@@ -14,7 +14,6 @@
             "email": "arthur.yinzhen@outlook.com"
         }
     ],
-
     "require": {
         "php": ">=5.5.0",
         "alibabacloud/client": "^1.0"
@@ -24,6 +23,5 @@
             "Arthuryinzhen\\Alisms\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "minimum-stability": "dev"
 }
